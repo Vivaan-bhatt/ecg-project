@@ -1,0 +1,11 @@
+python 3.13.18
+numpy==2.4.6
+pandas==2.2.3
+scipy==1.16.3
+scikit-learn==1.6.1
+torch==2.14.1+cpu
+sktime==1.2.0
+lightgbm==4.6.0
+imbalanced-learn==0.14.2
+matplotlib==3.10.0
+wfdb==4.3.1

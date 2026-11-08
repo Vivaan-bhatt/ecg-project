@@ -1,0 +1,6 @@
+{
+  "rule": "highest-likelihood code (ties: first)",
+  "likelihood_filter": "lik>0",
+  "multi_label_share": 0.23709941520467837,
+  "count_score": 11
+}
