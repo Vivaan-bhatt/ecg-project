@@ -55,3 +55,7 @@ It builds M5, M5A and M5T by averaging the saved softmax outputs. Expected headl
 - `requirements_used.txt`: library versions in the analysis runtime (Colab CPU); the deep models were trained on a T4 GPU runtime whose versions were not recorded.
 
 Seed 42 is used for the patient split, model training, the bootstrap and SMOTE.
+
+## License
+
+Code is released under the MIT License (see `LICENSE`). PTB-XL is distributed by PhysioNet under its own license (Creative Commons Attribution 4.0 at the time of writing; check the dataset page); the index, label and probability arrays in this repository are derived from it, so please cite PTB-XL (Wagner et al., Scientific Data 2020) when reusing them.
